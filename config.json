@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrarse",
+        "uuid": 25469136,
+        "checksum": "4amzz"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
